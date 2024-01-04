@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Technologies</h2>
+<h2 align="left">My Skills</h2>
 
 ###
 
@@ -62,7 +62,7 @@
 
 ###
 
-<h2 align="left">Connect</h2>
+<h2 align="left">Lets Connect</h2>
 
 ###
 
